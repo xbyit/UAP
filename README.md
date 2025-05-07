@@ -33,7 +33,7 @@
 
 ```bash
 # 1. Download the latest .deb package
-wget https://github.com/xbyit/UAP/releases/download/v1.0/uap-pkg.deb
+wget https://github.com/xbyit/UAP/releases/download/Download/uap-pkg.deb
 
 # 2. Install the package
 dpkg -i uap-pkg.deb
